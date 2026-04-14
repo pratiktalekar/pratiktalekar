@@ -3,7 +3,7 @@
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 
 🎓 &nbsp;I’m currently pursuing B.tech in Information Technology at SPPU University.<br>
-🌱 &nbsp;I’m on track for learning more about fullstack web development, Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
+🌱 &nbsp;I’m a java and spring developer with interest in feilds like Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 ✍️ &nbsp;In my free time, I read books and play cricket.<br>
 💬 &nbsp;Feel free to reach out to me for collaborations, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can reach me at <a href="mailto:pratiktalekarpatil@gmail.com">pratiktalekarpatil@gmail.com</a>
